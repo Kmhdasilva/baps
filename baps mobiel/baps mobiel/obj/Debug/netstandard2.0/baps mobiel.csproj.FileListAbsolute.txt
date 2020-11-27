@@ -1,0 +1,14 @@
+E:\baps\baps mobiel\baps mobiel\bin\Debug\netstandard2.0\baps mobiel.deps.json
+E:\baps\baps mobiel\baps mobiel\bin\Debug\netstandard2.0\baps mobiel.dll
+E:\baps\baps mobiel\baps mobiel\bin\Debug\netstandard2.0\ref\baps mobiel.dll
+E:\baps\baps mobiel\baps mobiel\bin\Debug\netstandard2.0\baps mobiel.pdb
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\baps mobiel.csprojAssemblyReference.cache
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\baps mobiel.AssemblyInfoInputs.cache
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\baps mobiel.AssemblyInfo.cs
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\baps mobiel.csproj.CoreCompileInputs.cache
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\XamlC.stamp
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\baps mobiel.dll
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\ref\baps mobiel.dll
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\baps mobiel.pdb
