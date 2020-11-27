@@ -1,4 +1,5 @@
-﻿using System;
+﻿using baps_mobiel.Droid;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -13,10 +14,6 @@ namespace baps_mobiel
         public MainPage()
         {
             InitializeComponent();
-        }
-        async void OnButtonClicked(object sender, EventArgs args)
-        {
-            
         }
     }
 }

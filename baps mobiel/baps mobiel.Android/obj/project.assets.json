@@ -1936,11 +1936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\baps\\baps mobiel\\baps mobiel.Android\\baps mobiel.Android.csproj",
+      "projectUniqueName": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.Android\\baps mobiel.Android.csproj",
       "projectName": "baps mobiel.Android",
-      "projectPath": "E:\\baps\\baps mobiel\\baps mobiel.Android\\baps mobiel.Android.csproj",
+      "projectPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.Android\\baps mobiel.Android.csproj",
       "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-      "outputPath": "E:\\baps\\baps mobiel\\baps mobiel.Android\\obj\\",
+      "outputPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1961,8 +1961,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "E:\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj": {
-              "projectPath": "E:\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj"
+            "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj": {
+              "projectPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj"
             }
           }
         }
