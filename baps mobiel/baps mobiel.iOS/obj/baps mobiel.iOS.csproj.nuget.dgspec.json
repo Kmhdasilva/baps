@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.iOS\\baps mobiel.iOS.csproj": {}
+    "E:\\baps\\baps mobiel\\baps mobiel.iOS\\baps mobiel.iOS.csproj": {}
   },
   "projects": {
-    "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.iOS\\baps mobiel.iOS.csproj": {
+    "E:\\baps\\baps mobiel\\baps mobiel.iOS\\baps mobiel.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.iOS\\baps mobiel.iOS.csproj",
+        "projectUniqueName": "E:\\baps\\baps mobiel\\baps mobiel.iOS\\baps mobiel.iOS.csproj",
         "projectName": "baps mobiel.iOS",
-        "projectPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.iOS\\baps mobiel.iOS.csproj",
+        "projectPath": "E:\\baps\\baps mobiel\\baps mobiel.iOS\\baps mobiel.iOS.csproj",
         "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.iOS\\obj\\",
+        "outputPath": "E:\\baps\\baps mobiel\\baps mobiel.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj": {
-                "projectPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj"
+              "E:\\baps\\baps mobiel\\baps mobiel\\bapsMobiel.csproj": {
+                "projectPath": "E:\\baps\\baps mobiel\\baps mobiel\\bapsMobiel.csproj"
               }
             }
           }
@@ -65,17 +65,18 @@
         }
       }
     },
-    "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj": {
+    "E:\\baps\\baps mobiel\\baps mobiel\\bapsMobiel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj",
-        "projectName": "baps mobiel",
-        "projectPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj",
+        "projectUniqueName": "E:\\baps\\baps mobiel\\baps mobiel\\bapsMobiel.csproj",
+        "projectName": "bapsMobiel",
+        "projectPath": "E:\\baps\\baps mobiel\\baps mobiel\\bapsMobiel.csproj",
         "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\obj\\",
+        "outputPath": "E:\\baps\\baps mobiel\\baps mobiel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,6 +104,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

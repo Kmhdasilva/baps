@@ -1,0 +1,7 @@
+E:\baps\baps mobiel\baps mobiel\bin\Debug\netstandard2.0\bapsMobiel.deps.json
+E:\baps\baps mobiel\baps mobiel\bin\Debug\netstandard2.0\bapsMobiel.dll
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\bapsMobiel.csprojAssemblyReference.cache
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\bapsMobiel.AssemblyInfoInputs.cache
+E:\baps\baps mobiel\baps mobiel\obj\Debug\netstandard2.0\bapsMobiel.AssemblyInfo.cs

@@ -4,11 +4,9 @@
              x:Class="baps_mobiel.MainPage">
 
     <StackLayout>
-<<<<<<< Updated upstream
         <ListView.ItemsSource>
-            
+
         </ListView.ItemsSource>
-=======
         <Label x:Name="label"
                Text="Click the Button below"
                FontSize="Large"
@@ -19,7 +17,6 @@
                 VerticalOptions="CenterAndExpand"
                 HorizontalOptions="Center"
                 Clicked="OnButtonClicked" />
->>>>>>> Stashed changes
     </StackLayout>
 
 </ContentPage>

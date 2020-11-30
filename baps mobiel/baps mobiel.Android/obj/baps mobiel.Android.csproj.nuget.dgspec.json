@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.Android\\baps mobiel.Android.csproj": {}
+    "E:\\baps\\baps mobiel\\baps mobiel.Android\\baps mobiel.Android.csproj": {}
   },
   "projects": {
-    "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.Android\\baps mobiel.Android.csproj": {
+    "E:\\baps\\baps mobiel\\baps mobiel.Android\\baps mobiel.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.Android\\baps mobiel.Android.csproj",
+        "projectUniqueName": "E:\\baps\\baps mobiel\\baps mobiel.Android\\baps mobiel.Android.csproj",
         "projectName": "baps mobiel.Android",
-        "projectPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.Android\\baps mobiel.Android.csproj",
+        "projectPath": "E:\\baps\\baps mobiel\\baps mobiel.Android\\baps mobiel.Android.csproj",
         "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel.Android\\obj\\",
+        "outputPath": "E:\\baps\\baps mobiel\\baps mobiel.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj": {
-                "projectPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj"
+              "E:\\baps\\baps mobiel\\baps mobiel\\bapsMobiel.csproj": {
+                "projectPath": "E:\\baps\\baps mobiel\\baps mobiel\\bapsMobiel.csproj"
               }
             }
           }
@@ -54,17 +54,18 @@
         }
       }
     },
-    "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj": {
+    "E:\\baps\\baps mobiel\\baps mobiel\\bapsMobiel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj",
-        "projectName": "baps mobiel",
-        "projectPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\baps mobiel.csproj",
+        "projectUniqueName": "E:\\baps\\baps mobiel\\baps mobiel\\bapsMobiel.csproj",
+        "projectName": "bapsMobiel",
+        "projectPath": "E:\\baps\\baps mobiel\\baps mobiel\\bapsMobiel.csproj",
         "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-        "outputPath": "D:\\school\\proftaak2\\baps\\baps mobiel\\baps mobiel\\obj\\",
+        "outputPath": "E:\\baps\\baps mobiel\\baps mobiel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,6 +93,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
